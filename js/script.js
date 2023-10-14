@@ -51,7 +51,6 @@ function formSubmetido(){
     }
 
     if(!validateTel()){
-        console.log(validateTel())
         toggleLoader();
         toggleMessage("Número de telefone inválido");
         tel.removeClass('is-valid').addClass('is-invalid')
@@ -162,7 +161,7 @@ $('#cep').on('keypress', function(e) {
     }
 });
 
-$('#cep').on('keyup', function(e) {
+$('#cep').on('keyup change', function(e) {
     cepInput.removeClass('is-valid').addClass('is-invalid')
     const cepValue = $(this).val().replace('-', '');
 
@@ -343,10 +342,7 @@ function criarProduto(){
     if(!addClassValid(qtdeInput)) boolean = false
     if(!addClassValid(valueUnInput)) boolean = false
 
-    btnAddProduct.removeAttr('data-bs-dismiss');
     if(!boolean) return false;
-
-    btnAddProduct.attr('data-bs-dismiss', 'modal');
 
     const produto = new Produto(indice = 1, descriptionInput.val(), 
     undInput.val(), qtdeInput.val(), valueUnInput.val())
