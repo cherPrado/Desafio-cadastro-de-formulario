@@ -67,7 +67,7 @@ Com a missão de capacitar nossos clientes a prosperar em um mundo cada vez mais
 
 <p>&nbsp;</p>
 
-## JSON
+## 📌 JSON e Session Storage
 
 <p align="center">
   <img src="./.github/10.png" width="600px"/>
