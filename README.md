@@ -1,4 +1,4 @@
-<h1 align="center">Desafio Front-End da VFlows</h1>
+<h1 align="center">Desafio Front-End VFlows</h1>
 <p align="center">
   <img src="https://raw.githubusercontent.com/VFLOWS/Teste-Estagio/main/.github/logo.png" width="400px"/>
 </p>
