@@ -1,6 +1,6 @@
 <h1 align="center">Desafio Front-End VFlows</h1>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VFLOWS/Teste-Estagio/main/.github/logo.png" width="400px"/>
+  <img src="https://raw.githubusercontent.com/VFLOWS/Teste-Estagio/main/.github/logo.png" width="300px"/>
 </p>
 
 
@@ -14,12 +14,6 @@
 <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
 </h3>
 
-## Sobre a VFlows
-É uma equipe apaixonada e dedicada de profissionais de tecnologia, impulsionados pela visão de transformar o cenário empresarial por meio de soluções inovadoras e inteligentes. Como consultoria em tecnologia de informação, nossa missão é fornecer resultados excepcionais, aproveitando ao máximo nosso conhecimento especializado em desenvolvimento.
-
-Com a missão de capacitar nossos clientes a prosperar em um mundo cada vez mais digital. Buscamos constantemente inovar, explorar as últimas tendências tecnológicas e entregar resultados excepcionais que impulsionem o crescimento e a eficiência. Acreditamos que o sucesso de nossos clientes é o nosso sucesso.
-
-
 <br>
 
 ## Desafio - Formulário de Cadastro de Fornecedor
@@ -28,11 +22,14 @@ Com a missão de capacitar nossos clientes a prosperar em um mundo cada vez mais
 
 * Adição de Produtos: O fornecedor poderá adicionar múltiplos produtos que fornece, especificando detalhes como nome do produto, descrição, preço, quantidade que formara o preço final.
 
-* Upload de Documentos: O fornecedor tem a opção de enviar documentos relevantes. Estes documentos serão armazenados temporariamente em formato BLOB.
+* Upload de arquivos/documentos: O fornecedor tem a opção de enviar documentos relevantes. Estes documentos serão armazenados temporariamente em formato BLOB.
+
+* Validação de CNPJ, validação de preenchimento dos campos, validação de preenchimento dos produtos e arquivos e tolerância a exceções.
   
 * Geração de JSON: Ao finalizar e submeter o formulário, todas as informações inseridas (incluindo detalhes do fornecedor, produtos e documentos) serão convertidas em um formato JSON.
 
 * Salvamento no Session Storage: O JSON gerado será salvo no session storage do navegador. Isso permite que os dados sejam recuperados posteriormente, se necessário, durante a sessão atual do usuário.
+  
 
 ## 🚧 Projeto
 <p align="center">
