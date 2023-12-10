@@ -64,7 +64,7 @@
 
 <p>&nbsp;</p>
 
-## 📌 JSON e Session Storage
+## 📌 JSON
 
 <p align="center">
   <img src="./.github/10.png" width="600px"/>
