@@ -1,8 +1,4 @@
-<h1 align="center">Desafio Front-End VFlows</h1>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/VFLOWS/Teste-Estagio/main/.github/logo.png" width="300px"/>
-</p>
-
+<h1 align="center">Desafio Front-End - Estágio</h1>
 
 <h3 align="center">
 ⚙️ Tecnologias utilizadas
