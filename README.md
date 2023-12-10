@@ -15,19 +15,17 @@
 
 ## Desafio - Formulário de Cadastro de Fornecedor
 
-* Integração com API de CEP: Ao inserir o CEP no campo apropriado, o sistema buscará automaticamente os detalhes do endereço por meio da API e preencherá os campos correspondentes (como rua, bairro, cidade e estado).
+* <strong>API de CEP:</strong> Busca automaticamente e preenche os campos de Estado, Cidade, Bairro e Rua.
 
-* Adição de Produtos: O fornecedor poderá adicionar múltiplos produtos que fornece, especificando detalhes como nome do produto, descrição, preço, quantidade que formara o preço final.
+* <strong>Adição de Produtos:</strong> adiciona (ou excluí) múltiplos produtos em lista, com Descrição, Preço, Quantidade e Preço total.
 
-* Upload de arquivos/documentos: O fornecedor tem a opção de enviar documentos relevantes. Estes documentos serão armazenados temporariamente em formato BLOB.
+* <strong>Upload de arquivos:</strong> Adiciona (ou excluí) arquivos que serão armazenados em formato BLOB no localStorage e podem ser baixados.
 
-* Validação de CNPJ, validação de preenchimento dos campos, validação de preenchimento dos produtos e arquivos e tolerância a exceções.
+* <strong>Validação de CNPJ:</strong> Validação automática no preenchimento do campo.
   
-* Geração de JSON: Ao finalizar e submeter o formulário, todas as informações inseridas (incluindo detalhes do fornecedor, produtos e documentos) serão convertidas em um formato JSON.
-
-* Salvamento no Session Storage: O JSON gerado será salvo no session storage do navegador. Isso permite que os dados sejam recuperados posteriormente, se necessário, durante a sessão atual do usuário.
-
-* <a href="https://cadastro-fornecedor-cherlau.web.app/" target="_blank"><h3>Confira: https://cadastro-fornecedor-cherlau.web.app/</h3></a>
+* <strong>Geração de JSON:</strong> Ao Submeter o formulário, todas as informações inseridas serão convertidas em formato JSON para possivel envio ao banco de dados.
+  
+* <a href="https://cadastro-fornecedor-cherlau.web.app/" target="_blank"><h4>Confira o projeto hospedado no firebase: https://cadastro-fornecedor-cherlau.web.app/</h3></a>
 
 <br>
 <br>
