@@ -25,7 +25,7 @@
   
 * <strong>Geração de JSON:</strong> Ao Submeter o formulário, todas as informações inseridas serão convertidas em formato JSON para possivel envio ao banco de dados.
   
-* <a href="https://cadastro-fornecedor-cherlau.web.app/" target="_blank"><h4>Confira o projeto hospedado no firebase: https://cadastro-fornecedor-cherlau.web.app/</h3></a>
+* <a href="https://cadastro-fornecedor-cherlau.web.app/" target="_blank"><h4>Confira: https://cadastro-fornecedor-cherlau.web.app/</h3></a>
 
 <br>
 <br>
