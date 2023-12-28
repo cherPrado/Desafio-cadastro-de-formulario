@@ -1,4 +1,4 @@
-<h1 align="center">Desafio Front-End - Estágio</h1><br>
+<h1 align="center">Desafio Front-End</h1><br>
 
 
 <h3 align="center">
