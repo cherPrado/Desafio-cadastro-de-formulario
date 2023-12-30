@@ -15,17 +15,17 @@
 
 ## Desafio - Formulário de Cadastro de Fornecedor
 
-* <strong>API de CEP:</strong> Busca automaticamente e preenche os campos de Estado, Cidade, Bairro e Rua.
+* <strong>API de CEP:</strong> Busca automaticamente e preenche os campos de <strong>estado, cidade, bairro e rua.</strong>
 
-* <strong>Adição de Produtos:</strong> adiciona (ou excluí) múltiplos produtos em lista, com Descrição, Preço, Quantidade e Preço total.
+* <strong>Adição de Produtos:</strong> adiciona/excluí múltiplos produtos, com campos de <strong>descrição, preço, quantidade e preço total.</strong>
 
-* <strong>Upload de arquivos:</strong> Adiciona (ou excluí) arquivos que serão armazenados em formato BLOB no localStorage e podem ser baixados.
+* <strong>Upload de arquivos:</strong> Adiciona/excluí arquivos que serão armazenados em formato BLOB no localStorage e pode ser feito o download do arquivo pelo navegador.
 
 * <strong>Validação de CNPJ:</strong> Validação automática no preenchimento do campo.
   
 * <strong>Geração de JSON:</strong> Ao Submeter o formulário, todas as informações inseridas serão convertidas em formato JSON para possivel envio ao banco de dados.
   
-* <a href="https://cadastro-fornecedor-cherlau.web.app/" target="_blank"><h4>Confira: https://cadastro-fornecedor-cherlau.web.app/</h3></a>
+* <a href="https://cadastro-fornecedor-cherlau.web.app/" target="_blank"><h4>Conferir online: https://cadastro-fornecedor-cherlau.web.app/</h3></a>
 
 <br>
 <br>
@@ -39,7 +39,10 @@
   <img src="./.github/9.png" width="600px"/>
 </p>
 
-## ✔️ Validações
+<br>
+<br>
+
+## ✅ Validações
 <p align="center">
   <img src="./.github/2.png" width="600px"/>
 </p>
@@ -84,7 +87,7 @@
 
 ## ✒️ Autor
 
-| [<img src="https://avatars.githubusercontent.com/u/112346259?v=4" width=115 > <br> <sub> Cherlau Prado </sub>](https://github.com/cherPrado) |
+| [<img src="https://media.licdn.com/dms/image/D4D03AQE-voR1YRz31Q/profile-displayphoto-shrink_800_800/0/1700061191174?e=1709164800&v=beta&t=bI4GKo3aSS2r2rXjC-_st9nKb5uUIE2wwQhDbsQ_L7g" width=115 > <br> <sub> Cherlau Prado </sub>](https://github.com/cherPrado) |
 | :--------------------------------------------------------------------------------------------------------------------------------------------: |
 
 <h2 >Entre em contato 🤙🏽</h2>
